@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h5>bravobenitezjuanandres@gmail.com </H5>
 <h3 align="center">Full Stack Developer</h3>
 <h3>¿Quien soy?</h3>
-<h5>Desde que tengo memoria me ha interesado las ciencias exactas, a su vez la tecnología me apasiona queriendo saber cómo funciona cada cosa que me rodea, con curiosidad y apasionadamente. He desarrollado mis habilidades en las matemáticas y programación, me he dirigido por ciencias como la geología y astronomía. Siendo serio y entregado a mis deberes, buscando siempre la superación personal, dispuesta al cambio y la colaboración en equipo. Con conocimiento en desarrollo de apps web y de escritorio, en lenguajes como C# y JavaScript, con tecnologías como React, Redux, Express, Sequelize. Dispuesto a enfrentar nuevos aprendizajes.</h5>
+<h5>Desde que tengo memoria me ha interesado las ciencias exactas, a su vez la tecnología me apasiona queriendo saber cómo funciona cada cosa que me rodea, con curiosidad y apasionadamente. He desarrollado mis habilidades en las matemáticas y programación, me he dirigido por ciencias como la geología y astronomía. Siendo serio y entregado a mis deberes, buscando siempre la superación personal, dispuesto al cambio y la colaboración en equipo. Con conocimiento en desarrollo de apps web y de escritorio, en lenguajes como C# y JavaScript, con tecnologías como React, Redux, Express, Sequelize. Dispuesto a enfrentar nuevos aprendizajes.</h5>
 <h3>¿Qué Hago?</h3>
 <h5>Estudio Desarrollo de Software y ya finalizado el bootcamp de Henry, realizaré proyectos para mejorar mis habilidades.</h5>
 
